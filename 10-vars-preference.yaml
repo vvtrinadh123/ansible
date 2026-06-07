@@ -11,7 +11,7 @@
   tasks:
   - name: print vars preference
     vars:
-      full_name: "Siva from TASK level"
+      #full_name: "Siva from TASK level"
     debug:
       msg: "Hi, {{ full_name }}"
 
