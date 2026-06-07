@@ -1,7 +1,7 @@
 - name: variables preference
   hosts: frontend
-  vars:
-    full_name: "Siva from play"
+  # vars:
+  #   full_name: "Siva from play"
   vars_files:
   - course.yaml
   # vars_prompt:
