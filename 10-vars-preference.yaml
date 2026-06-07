@@ -13,7 +13,7 @@
     vars:
       #full_name: "Siva from TASK level"
     debug:
-      msg: "Hi, {{ full_name }}"
+      #msg: "Hi, {{ full_name }}"
 
 # 1. CMD args
 # 2. Task
